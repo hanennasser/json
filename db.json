@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1,  "cat":"",  "title": "hello", "image":"",  "description":"",  "rate":4,    "price":12000    },
+ { "id": 2,  "cat":"",  "title": "hello", "image":"",  "description":"",  "rate":4,    "price":12000    },
+ { "id": 3,  "cat":"",  "title": "hello", "image":"",  "description":"",  "rate":4,    "price":12000    }
+  ]
+}
